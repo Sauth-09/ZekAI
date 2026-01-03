@@ -24,7 +24,10 @@
 ## 🚀 Kurulum ve Kullanım
 
 ### 1. İndirme ve Kurulum
-En son sürümü [Releases](https://github.com/Sauth-09/ZekAI/releases) sayfasından indirin. `ZekAI_Kurulum.exe` dosyasını çalıştırarak kurulumu tamamlayın. Masaüstündeki "ZekAI" kısayolu ile programı başlatın.
+
+[![İndir](https://img.shields.io/github/v/release/Sauth-09/ZekAI?label=Son%20Sürümü%20İndir&style=for-the-badge&color=28a745&logo=windows)](https://github.com/Sauth-09/ZekAI/releases/latest)
+
+Yukarıdaki butona tıklayarak en son sürümü (**ZekAI_Kurulum.exe**) indirin ve kurun. Masaüstündeki "ZekAI" kısayolu ile programı başlatın.
 
 ### 2. Sunucu Ayarları
 *   Program açıldığında **Ayarlar** sekmesine gidin.
