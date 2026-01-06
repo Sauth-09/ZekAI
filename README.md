@@ -1,6 +1,6 @@
 # ZekAI
 
-![Logo](app/static/img/logo.ico)
+
 
 **ZekAI**, okullar, sınıflar ve arkadaş grupları için tasarlanmış, yapay zeka destekli, modern ve eğlenceli bir LAN (Yerel Ağ) bilgi yarışması platformudur.
 
