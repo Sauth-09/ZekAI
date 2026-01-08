@@ -38,6 +38,7 @@ Yukarıdaki butona tıklayarak en son sürümü (**ZekAI_Kurulum.exe**) indirin 
 ### 3. Oyuna Bağlanma
 *   Sunucu başladığında ekranda bir IP adresi ve QR Kod belirecektir.
 *   Oyuncular (veya akıllı tahtalar), aynı Wi-Fi ağına bağlıyken tarayıcılarına bu adresi yazarak veya telefondan QR kodu okutarak oyuna bağlanabilirler.
+*    Tarayıcıdaki adresi yer imleri çubuğuna kaydedin.
 *   Açılan ekrandan oyun modunu seçip yarışmaya başlayabilirsiniz!
 
 ## 📸 Ekran Görüntüleri
